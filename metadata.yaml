@@ -1,4 +1,5 @@
 _repo: Sign-Talk-A-Universal-Signal-Code-Without-Apparatus-for-Use-in-the-Army-the-Navy-Camping-Hunt__50938
+_version: 0.1.0
 contributor:
   other_contributor:
     agent_name: Scott, Huge L.
@@ -8,12 +9,17 @@ contributor:
     agent_name: Powers, Lillian Delger
     gutenberg_agent_id: '46153'
     url: http://www.gutenberg.org/2009/agents/46153
+covers:
+- cover_type: archival
+  image_path: 50938-h/images/cover.jpg
 creator:
   author:
     agent_name: Seaton, Ernest Thompson
     gutenberg_agent_id: '46152'
     url: http://www.gutenberg.org/2009/agents/46152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50938#Sign-Talk-A-Universal-Signal-Code-Without-Apparatus-for-Use-in-the-Army-the-Navy-Camping-Hunt_
 gutenberg_issued: '2016-01-16'
 gutenberg_type: Text
 identifiers:
